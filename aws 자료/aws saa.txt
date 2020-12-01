@@ -1,0 +1,32 @@
+https://opentutorials.org/course/2717
+
+https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS_Certified_Solutions%20Architect_Associate_Feb_2018_Sample%20Questions_v1.0.pdf
+
+https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02/
+
+https://medium.com/@tkdgy0801/%EB%8C%80%ED%95%99%EC%83%9D%EB%8F%84-%EB%94%B8-%EC%88%98-%EC%9E%88%EB%8A%94-aws-solutions-architect-associate-%EC%8B%9C%ED%97%98-%ED%9B%84%EA%B8%B0-baee6e8aec62
+
+EC2, S3, ,RDS, DynamoDB, CloudFront, Cloudwatch, Route53, Autoscailing, Redshift
+
+https://www.examtopics.com/
+
+https://www.udemy.com/ko/
+
+Amazon EC2
+클라우드의 가상 서버
+Amazon Simple Storage Service(S3)
+클라우드에서의 확장 가능한 스토리지
+Amazon Aurora
+관리형의 고성능 관계형 데이터베이스
+Amazon DynamoDB
+관리형 NoSQL 데이터베이스
+Amazon RDS
+MySQL, PostgreSQL, Oracle, SQL Server 및 MariaDB를 위한 관리형의 관계형 데이터베이스 서비스
+AWS Lambda
+서버에 대한 걱정 없이 코드 실행
+Amazon VPC
+격리된 클라우드 리소스
+Amazon Lightsail
+가상 프라이빗 서버 시작 및 관리
+Amazon SageMaker
+기계 학습 모델을 대규모로 구축, 교육 및 배포

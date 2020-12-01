@@ -1,0 +1,76 @@
+ec2
+
+reservedinstance
+
+ebs
+
+efs
+
+vpc
+
+router53
+
+direct connect
+
+storage gateway
+
+ses
+
+sqs
+
+sns
+
+kinesis
+
+dynamodb
+
+rds
+
+aurora
+
+redshift
+
+athena
+
+lambda
+
+api gateway
+
+iam
+
+cognito 
+
+cloudHSM
+
+trusted advisor
+
+opsWorks
+
+cloudFormation
+
+strpFuction
+
+batch
+
+cloudTrail
+
+cloudWatch
+
+1. aws 백서 및 무료 온라인 강의 시청
+2. 해외 온라인 강좌 수강
+3. 직접 핸즈온
+4. 샘플 시험 모의 테스트
+
+https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate/view/
+
+https://brunch.co.kr/@topasvga/233s
+
+1. 개념따기, 워드파일
+
+2. 유데미 연습문제
+
+3. 덤프 풀기
+
+4. exam 사이트 연습문제
+
+
