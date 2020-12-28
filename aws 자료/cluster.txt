@@ -1,3 +1,0 @@
-vpc-02b41ee5a1f6d885a
-
-cluster vpc name
