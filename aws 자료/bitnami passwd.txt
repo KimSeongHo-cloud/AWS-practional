@@ -1,3 +1,0 @@
-yXZjeN5ma9da
-
-DNS : ec2-52-79-227-139.ap-northeast-2.compute.amazonaws.com
